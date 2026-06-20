@@ -16,8 +16,6 @@ Statistical analysis of Titanic passenger age and survival rates
 
 This project investigates whether **age** significantly influenced the survival of passengers aboard the RMS Titanic. Using descriptive statistics, histograms, and hypothesis testing, the average ages of survivors and non-survivors are compared to determine whether age was a determining factor in survival outcomes.
 
-**Course:** MATH 1202 – Statistics
-**Institution:** Fanshawe College
 
 ---
 
