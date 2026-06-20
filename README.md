@@ -9,7 +9,7 @@ Statistical analysis of Titanic passenger age and survival rates
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-Statistics-purple?logo=scipy&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-green)
+![Statistics](https://img.shields.io/badge/Hypothesis%20Testing-Two%20Sample%20T--Test-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ## 📊 Project Overview
